@@ -6,3 +6,5 @@ day-1 (12-01-2021)
 
 
 learning git and github
+
+and after all i finaly learn basic of github
