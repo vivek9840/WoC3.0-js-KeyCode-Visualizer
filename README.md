@@ -1,10 +1,3 @@
-# WOC-3 project
+#KEY TABLE
 
-here i made a read me file for track my progress
-
-day-1 (12-01-2021)
-
-
-learning git and github
-
-and after all i finaly learn basic of github
+i try to do simple design in table 
