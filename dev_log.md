@@ -22,3 +22,7 @@ create basic files like html and css
 ##day-4 (15-01-2021)
 
 try to improve the style and layout of project
+
+##day-5 (16-01-2021)
+
+did nothing
