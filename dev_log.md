@@ -26,3 +26,11 @@ try to improve the style and layout of project
 ##day-5 (16-01-2021)
 
 did nothing
+
+##day-6-10 (17-01-2021 - 24-01-2021)
+
+did nothing again
+
+##day-11 (25-01-2021)
+
+made dynamic table
